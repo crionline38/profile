@@ -34,6 +34,7 @@ a:hover {
 
 .img-profile {
   width : 200px;
+  box-shadow: 3px 3px 5px #221111;
 }
 
 .container {
@@ -84,15 +85,4 @@ a:hover {
   .container {
     width: 300px;
   }
-}
-
-#sidebar {
-  position: fixed;
-  width: 300px;
-  left: 0;
-  top: 0;
-  bottom: 0;
-}
-#page-content {
-  margin-left: 300px;
 }
