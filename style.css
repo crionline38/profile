@@ -1,21 +1,19 @@
 body {
   background-color: #CCCCCC;
-  font-family: 'Arvo', serif;
+  font-family: 'Asul', sans-serif;
+  font-size: 20px;
   color: #222222;
-  font-size: 16px;
   line-height: 20px;
 }
 
 h1 {
-  font-family: 'Alfa Slab One', cursive;
-  font-weight: 100;
-  color : #CC2020;
-  text-shadow: 1px 1px 2px black;
+  font-family: 'Chivo', sans-serif;
+  color : #881010;
   line-height: 40px;
 }
 
 h2 {
-  font-family: 'Gloria Hallelujah', cursive;
+  font-family: 'Asul', sans-serif;
   color : #AA1010;
 }
 
@@ -32,6 +30,13 @@ a:hover {
   font-size: 1.2em;
 }
 
+.card p {
+  text-align: left;
+}
+.card img {
+  width: 150px;
+  margin: 10px;
+}
 .img-profile {
   width : 200px;
   box-shadow: 3px 3px 5px #221111;
